@@ -1,7 +1,6 @@
-### Hi there 👋
-
-My name is Rizki Cahya Ramdani
-
-I am learn about Full-stack developer, UI/UX designer, and Graphic designer.
-
-I am a student at Amikom University, majoring in Informatics.
+### Hi there! 👋
+I’m a Fullstack Developer who loves turning ideas into real-world web apps 🌐
+Focused on clean code, performance, and great UI/UX
+👨‍💻 Favorite stack: React, Node.js, Tailwind, MySQL
+📘 Currently learning: Laravel & NextJS
+🚀 Let’s build something impactful!
