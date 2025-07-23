@@ -27,9 +27,9 @@ I specialize in building scalable, responsive, and user-focused web applications
 
 ### 🛍️ [Nexakun Account Store](https://github.com/rizkicahya-ramdani/nexakun-accountstore)
 
-### 📰 [Hotel Booking System](https://github.com/rizkicahya-ramdani/aplikasi-pemesanan-hotel)
+### 🏨 [Hotel Booking System](https://github.com/rizkicahya-ramdani/aplikasi-pemesanan-hotel)
 
-### 🗂️ [Classification of Heart Disease](https://github.com/rizkicahya-ramdani/klasifikasi-penyakit-jantung)
+### 📊 [Classification of Heart Disease](https://github.com/rizkicahya-ramdani/klasifikasi-penyakit-jantung)
 
 ---
 
@@ -47,7 +47,7 @@ I specialize in building scalable, responsive, and user-focused web applications
 - 💼 [LinkedIn: Rizki Cahya](https://linkedin.com/in/rizkicahya)
 - 🌍 [Portfolio Website](https://rizkicahya.vercel.app)
 - 📫 [Email](mailto:rizki.cahya03@gmail.com)
-- 📸 [Instagram: @yourusername](https://instagram.com/rizkichrmdn)
+- 📸 [Instagram: @rizkichrmdn](https://instagram.com/rizkichrmdn)
 
 ---
 
