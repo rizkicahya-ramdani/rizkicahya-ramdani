@@ -29,6 +29,8 @@ I specialize in building scalable, responsive, and user-focused web applications
 
 ### 🏨 [Hotel Booking System](https://github.com/rizkicahya-ramdani/aplikasi-pemesanan-hotel)
 
+### 🎥 [Cinema Ticket Booking System](https://github.com/Fauzi-Taufiq/bioskop)
+
 ### 📊 [Classification of Heart Disease](https://github.com/rizkicahya-ramdani/klasifikasi-penyakit-jantung)
 
 ---
