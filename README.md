@@ -21,7 +21,6 @@ I specialize in building scalable, responsive, and user-focused web applications
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD4814?style=flat&logo=codeigniter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
----
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkicahya-ramdani&layout=compact&theme=radical)
 
