@@ -1,4 +1,4 @@
-# Hi, I'm Rizki Cahya 👋
+# Hi, I'm Rizki Cahya
 
 I'm a passionate **Fullstack Web Developer** based in Indonesia 🇮🇩.  
 I specialize in building scalable, responsive, and user-focused web applications — from clean frontend interfaces to solid backend logic.
