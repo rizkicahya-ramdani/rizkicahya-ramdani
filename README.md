@@ -23,6 +23,10 @@ I specialize in building scalable, responsive, and user-focused web applications
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkicahya-ramdani&layout=compact&theme=radical)
+
+---
+
 ## Featured Projects
 
 ### 🛍️ [Nexakun Account Store](https://github.com/rizkicahya-ramdani/nexakun-accountstore)
