@@ -5,7 +5,7 @@ I specialize in building scalable, responsive, and user-focused web applications
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -23,7 +23,7 @@ I specialize in building scalable, responsive, and user-focused web applications
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### 🛍️ [Nexakun Account Store](https://github.com/rizkicahya-ramdani/nexakun-accountstore)
 
@@ -31,11 +31,11 @@ I specialize in building scalable, responsive, and user-focused web applications
 
 ### 🎥 [Cinema Ticket Booking System](https://github.com/Fauzi-Taufiq/bioskop)
 
-### 📊 [Classification of Heart Disease](https://github.com/rizkicahya-ramdani/klasifikasi-penyakit-jantung)
+### 📰 [Blog System](https://github.com/rizkicahya-ramdani/ClaireBlog)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rizkicahya-ramdani&show_icons=true&theme=radical" width="48%"/>
@@ -44,7 +44,7 @@ I specialize in building scalable, responsive, and user-focused web applications
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 - 💼 [LinkedIn: Rizki Cahya](https://linkedin.com/in/rizkicahya)
 - 🌍 [Portfolio Website](https://rizkicahya.vercel.app)
