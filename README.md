@@ -1,7 +1,7 @@
 # Hi, I'm Rizki Cahya
 
 <p align="center">
-  <img src="https://upload-os-bbs.hoyolab.com/upload/2025/04/10/316930906/a69f639f952333fa0fe264d1b74dfc1a_489098511457621608.gif" width="350" />
+  <img src="https://upload-os-bbs.hoyolab.com/upload/2025/04/30/163732817/7492676c739896f21f3c5497a1ae236a_2928429969636146322.gif" width="350" />
   <img src="https://upload-os-bbs.hoyolab.com/upload/2025/04/30/163732817/7492676c739896f21f3c5497a1ae236a_2928429969636146322.gif" width="350" />
 </p>
 
