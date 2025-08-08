@@ -1,8 +1,8 @@
-# Hi, I'm Rizki Cahya
+# Hi, I'm Rizki Cahya 👋
 
 <p align="center">
-  <img src="https://upload-os-bbs.hoyolab.com/upload/2025/04/30/163732817/7492676c739896f21f3c5497a1ae236a_2928429969636146322.gif" width="350" />
-  <img src="https://upload-os-bbs.hoyolab.com/upload/2025/04/30/163732817/7492676c739896f21f3c5497a1ae236a_2928429969636146322.gif" width="350" />
+  <img src="/rizkicahya-ramdani/assets/castorice-1.gif" width="400" />
+  <img src="/rizkicahya-ramdani/assets/castorice-2.gif" width="400" />
 </p>
 
 I'm a passionate **Fullstack Web Developer** based in Indonesia 🇮🇩.  
