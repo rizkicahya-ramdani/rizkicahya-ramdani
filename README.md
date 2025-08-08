@@ -1,8 +1,8 @@
 # Hi, I'm Rizki Cahya 👋
 
 <p align="center">
-  <img src="/rizkicahya-ramdani/assets/castorice-1.gif" width="400" />
-  <img src="/rizkicahya-ramdani/assets/castorice-2.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/rizkicahya-ramdani/rizkicahya-ramdani/main/assets/castorice-1.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/rizkicahya-ramdani/rizkicahya-ramdani/main/assets/castorice-2.gif" width="400" />
 </p>
 
 I'm a passionate **Fullstack Web Developer** based in Indonesia 🇮🇩.  
@@ -36,12 +36,3 @@ I specialize in building scalable, responsive, and user-focused web applications
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rizkicahya-ramdani&show_icons=true&theme=radical" width="48%"/>
 </p>
-
----
-
-## Connect With Me
-
-- 💼 [LinkedIn: Rizki Cahya](https://linkedin.com/in/rizkicahya)
-- 🌍 [Portfolio Website](https://rizkicahya.vercel.app)
-- 📫 [Email](mailto:rizki.cahya03@gmail.com)
-- 📸 [Instagram: @rizkichrmdn](https://instagram.com/rizkichrmdn)
