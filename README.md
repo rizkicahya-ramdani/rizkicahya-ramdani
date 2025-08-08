@@ -31,7 +31,5 @@ I specialize in building scalable, responsive, and user-focused web applications
 ---
 
 ## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=rizkicahya-ramdani&show_icons=true&theme=radical" width="48%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizkicahya-ramdani&show_icons=true&theme=radical" width="48%"/>
-</p>
