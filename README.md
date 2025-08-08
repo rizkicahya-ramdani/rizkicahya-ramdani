@@ -1,5 +1,10 @@
 # Hi, I'm Rizki Cahya
 
+<p align="center">
+  <img src="https://upload-os-bbs.hoyolab.com/upload/2025/04/10/316930906/a69f639f952333fa0fe264d1b74dfc1a_489098511457621608.gif" width="350" />
+  <img src="https://upload-os-bbs.hoyolab.com/upload/2025/04/30/163732817/7492676c739896f21f3c5497a1ae236a_2928429969636146322.gif" width="350" />
+</p>
+
 I'm a passionate **Fullstack Web Developer** based in Indonesia 🇮🇩.  
 I specialize in building scalable, responsive, and user-focused web applications — from clean frontend interfaces to solid backend logic.
 
@@ -30,7 +35,6 @@ I specialize in building scalable, responsive, and user-focused web applications
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rizkicahya-ramdani&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=rizkicahya-ramdani&theme=radical" width="48%"/>
 </p>
 
 ---
