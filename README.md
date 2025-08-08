@@ -1,8 +1,7 @@
-# Hi, I'm Rizki Cahya 👋
+<h1 align="center">Hi, I'm Rizki Cahya 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rizkicahya-ramdani/rizkicahya-ramdani/main/assets/castorice-1.gif" width="400" />
-  <img src="https://raw.githubusercontent.com/rizkicahya-ramdani/rizkicahya-ramdani/main/assets/castorice-2.gif" width="400" />
+    <img src="assets/castorice-3.gif" width="100%" />
 </p>
 
 I'm a passionate **Fullstack Web Developer** based in Indonesia 🇮🇩.  
