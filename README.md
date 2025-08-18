@@ -19,7 +19,6 @@ I specialize in building scalable, responsive, and user-focused web applications
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD4814?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
@@ -28,4 +27,5 @@ I specialize in building scalable, responsive, and user-focused web applications
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rizkicahya-ramdani&show_icons=true&theme=radical" height="180em"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkicahya-ramdani&layout=compact&theme=radical" height="180em">
+    <img src="https://streak-stats.demolab.com?user=rizkicahya-ramdani&theme=radical&mode=weekly" height="180em">
 </p>
