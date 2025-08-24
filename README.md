@@ -7,7 +7,6 @@
 I'm a passionate **Fullstack Web Developer** based in Indonesia 🇮🇩.  
 I specialize in building scalable, responsive, and user-focused web applications — from clean frontend interfaces to solid backend logic.
 
----
 
 ## Tech Stack
 
@@ -21,7 +20,6 @@ I specialize in building scalable, responsive, and user-focused web applications
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
 ## GitHub Stats
 <p align="center">
