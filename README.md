@@ -15,6 +15,7 @@ I specialize in building scalable, responsive, and user-focused web applications
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -23,7 +24,7 @@ I specialize in building scalable, responsive, and user-focused web applications
 
 ## GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rizkicahya-ramdani&show_icons=true&theme=radical" height="180em"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkicahya-ramdani&layout=compact&theme=radical" height="180em">
-    <img src="https://streak-stats.demolab.com?user=rizkicahya-ramdani&theme=radical&mode=weekly" height="180em">
+    <img src="https://github-readme-stats.vercel.app/api?username=rizkicahyaa&show_icons=true&theme=radical" height="180em"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkicahyaa&layout=compact&theme=radical" height="180em">
+    <img src="https://streak-stats.demolab.com?user=rizkicahyaa&theme=radical&mode=weekly" height="180em">
 </p>
