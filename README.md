@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! I'm Rizki Cahya 👋</h1>
 
 <p align="center">
-    <img src="assets/columbina.gif" width="80%" />
+    <img src="assets/castorice-3.gif" width="80%" />
 </p>
 
 I'm a passionate **Fullstack Web Developer** based in Indonesia 🇮🇩.  
